@@ -1,0 +1,1015 @@
+@xmlns is a leaf node
+@xmlns:xsi is a leaf node
+@xsi:schemaLocation is a leaf node
+@returnVersion is a leaf node
+ReturnHeaderis a dictionary... exploring the sublevel.
+
+@binaryAttachmentCnt is a leaf node
+ReturnTs is a leaf node
+TaxPeriodEndDt is a leaf node
+PreparerFirmGrpis a dictionary... exploring the sublevel.
+
+PreparerFirmEIN is a leaf node
+PreparerFirmNameis a dictionary... exploring the sublevel.
+
+BusinessNameLine1Txt is a leaf node
+
+End of sub dictionary PreparerFirmName, moving up a level.
+
+PreparerUSAddressis a dictionary... exploring the sublevel.
+
+AddressLine1Txt is a leaf node
+CityNm is a leaf node
+StateAbbreviationCd is a leaf node
+ZIPCd is a leaf node
+
+End of sub dictionary PreparerUSAddress, moving up a level.
+
+
+End of sub dictionary PreparerFirmGrp, moving up a level.
+
+ReturnTypeCd is a leaf node
+TaxPeriodBeginDt is a leaf node
+Fileris a dictionary... exploring the sublevel.
+
+EIN is a leaf node
+BusinessNameis a dictionary... exploring the sublevel.
+
+BusinessNameLine1Txt is a leaf node
+
+End of sub dictionary BusinessName, moving up a level.
+
+BusinessNameControlTxt is a leaf node
+PhoneNum is a leaf node
+USAddressis a dictionary... exploring the sublevel.
+
+AddressLine1Txt is a leaf node
+CityNm is a leaf node
+StateAbbreviationCd is a leaf node
+ZIPCd is a leaf node
+
+End of sub dictionary USAddress, moving up a level.
+
+
+End of sub dictionary Filer, moving up a level.
+
+BusinessOfficerGrpis a dictionary... exploring the sublevel.
+
+PersonNm is a leaf node
+PersonTitleTxt is a leaf node
+PhoneNum is a leaf node
+SignatureDt is a leaf node
+DiscussWithPaidPreparerInd is a leaf node
+
+End of sub dictionary BusinessOfficerGrp, moving up a level.
+
+PreparerPersonGrpis a dictionary... exploring the sublevel.
+
+PreparerPersonNm is a leaf node
+PTIN is a leaf node
+PhoneNum is a leaf node
+
+End of sub dictionary PreparerPersonGrp, moving up a level.
+
+FilingSecurityInformationis a dictionary... exploring the sublevel.
+
+IPAddressis a dictionary... exploring the sublevel.
+
+IPv4AddressTxt is a leaf node
+
+End of sub dictionary IPAddress, moving up a level.
+
+IPDt is a leaf node
+IPTm is a leaf node
+IPTimezoneCd is a leaf node
+FilingLicenseTypeCd is a leaf node
+AtSubmissionCreationDeviceId is a leaf node
+AtSubmissionFilingDeviceId is a leaf node
+
+End of sub dictionary FilingSecurityInformation, moving up a level.
+
+TaxYr is a leaf node
+BuildTS is a leaf node
+
+End of sub dictionary ReturnHeader, moving up a level.
+
+ReturnDatais a dictionary... exploring the sublevel.
+
+@documentCnt is a leaf node
+IRS990is a dictionary... exploring the sublevel.
+
+@documentId is a leaf node
+@referenceDocumentId is a leaf node
+PrincipalOfficerNm is a leaf node
+USAddressis a dictionary... exploring the sublevel.
+
+AddressLine1Txt is a leaf node
+CityNm is a leaf node
+StateAbbreviationCd is a leaf node
+ZIPCd is a leaf node
+
+End of sub dictionary USAddress, moving up a level.
+
+GrossReceiptsAmt is a leaf node
+GroupReturnForAffiliatesInd is a leaf node
+Organization501c3Ind is a leaf node
+WebsiteAddressTxt is a leaf node
+TypeOfOrganizationCorpInd is a leaf node
+FormationYr is a leaf node
+LegalDomicileStateCd is a leaf node
+ActivityOrMissionDesc is a leaf node
+VotingMembersGoverningBodyCnt is a leaf node
+VotingMembersIndependentCnt is a leaf node
+TotalEmployeeCnt is a leaf node
+TotalVolunteersCnt is a leaf node
+TotalGrossUBIAmt is a leaf node
+NetUnrelatedBusTxblIncmAmt is a leaf node
+PYContributionsGrantsAmt is a leaf node
+CYContributionsGrantsAmt is a leaf node
+PYProgramServiceRevenueAmt is a leaf node
+CYProgramServiceRevenueAmt is a leaf node
+PYInvestmentIncomeAmt is a leaf node
+CYInvestmentIncomeAmt is a leaf node
+PYOtherRevenueAmt is a leaf node
+CYOtherRevenueAmt is a leaf node
+PYTotalRevenueAmt is a leaf node
+CYTotalRevenueAmt is a leaf node
+PYGrantsAndSimilarPaidAmt is a leaf node
+CYGrantsAndSimilarPaidAmt is a leaf node
+PYBenefitsPaidToMembersAmt is a leaf node
+CYBenefitsPaidToMembersAmt is a leaf node
+PYSalariesCompEmpBnftPaidAmt is a leaf node
+CYSalariesCompEmpBnftPaidAmt is a leaf node
+PYTotalProfFndrsngExpnsAmt is a leaf node
+CYTotalProfFndrsngExpnsAmt is a leaf node
+CYTotalFundraisingExpenseAmt is a leaf node
+PYOtherExpensesAmt is a leaf node
+CYOtherExpensesAmt is a leaf node
+PYTotalExpensesAmt is a leaf node
+CYTotalExpensesAmt is a leaf node
+PYRevenuesLessExpensesAmt is a leaf node
+CYRevenuesLessExpensesAmt is a leaf node
+TotalAssetsBOYAmt is a leaf node
+TotalAssetsEOYAmt is a leaf node
+TotalLiabilitiesBOYAmt is a leaf node
+TotalLiabilitiesEOYAmt is a leaf node
+NetAssetsOrFundBalancesBOYAmt is a leaf node
+NetAssetsOrFundBalancesEOYAmt is a leaf node
+InfoInScheduleOPartIIIInd is a leaf node
+MissionDesc is a leaf node
+SignificantNewProgramSrvcInd is a leaf node
+SignificantChangeInd is a leaf node
+ExpenseAmt is a leaf node
+GrantAmt is a leaf node
+RevenueAmt is a leaf node
+Desc is a leaf node
+ProgSrvcAccomActy2Grpis a dictionary... exploring the sublevel.
+
+ExpenseAmt is a leaf node
+RevenueAmt is a leaf node
+Desc is a leaf node
+
+End of sub dictionary ProgSrvcAccomActy2Grp, moving up a level.
+
+TotalProgramServiceExpensesAmt is a leaf node
+DescribedInSection501c3Indis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary DescribedInSection501c3Ind, moving up a level.
+
+ScheduleBRequiredIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary ScheduleBRequiredInd, moving up a level.
+
+PoliticalCampaignActyInd is a leaf node
+LobbyingActivitiesInd is a leaf node
+SubjectToProxyTaxInd is a leaf node
+DonorAdvisedFundIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary DonorAdvisedFundInd, moving up a level.
+
+ConservationEasementsIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary ConservationEasementsInd, moving up a level.
+
+CollectionsOfArtIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary CollectionsOfArtInd, moving up a level.
+
+CreditCounselingIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary CreditCounselingInd, moving up a level.
+
+TempOrPermanentEndowmentsIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary TempOrPermanentEndowmentsInd, moving up a level.
+
+ReportLandBuildingEquipmentIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary ReportLandBuildingEquipmentInd, moving up a level.
+
+ReportInvestmentsOtherSecIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary ReportInvestmentsOtherSecInd, moving up a level.
+
+ReportProgramRelatedInvstIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary ReportProgramRelatedInvstInd, moving up a level.
+
+ReportOtherAssetsIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary ReportOtherAssetsInd, moving up a level.
+
+ReportOtherLiabilitiesIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary ReportOtherLiabilitiesInd, moving up a level.
+
+IncludeFIN48FootnoteIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary IncludeFIN48FootnoteInd, moving up a level.
+
+IndependentAuditFinclStmtIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary IndependentAuditFinclStmtInd, moving up a level.
+
+ConsolidatedAuditFinclStmtIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary ConsolidatedAuditFinclStmtInd, moving up a level.
+
+SchoolOperatingInd is a leaf node
+ForeignOfficeInd is a leaf node
+ForeignActivitiesInd is a leaf node
+MoreThan5000KToOrgInd is a leaf node
+MoreThan5000KToIndividualsInd is a leaf node
+ProfessionalFundraisingInd is a leaf node
+FundraisingActivitiesInd is a leaf node
+GamingActivitiesInd is a leaf node
+OperateHospitalInd is a leaf node
+GrantsToOrganizationsIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary GrantsToOrganizationsInd, moving up a level.
+
+GrantsToIndividualsIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary GrantsToIndividualsInd, moving up a level.
+
+ScheduleJRequiredInd is a leaf node
+TaxExemptBondsInd is a leaf node
+EngagedInExcessBenefitTransInd is a leaf node
+PYExcessBenefitTransInd is a leaf node
+LoanOutstandingInd is a leaf node
+GrantToRelatedPersonInd is a leaf node
+BusinessRlnWithOrgMemInd is a leaf node
+BusinessRlnWithFamMemInd is a leaf node
+BusinessRlnWithOfficerEntInd is a leaf node
+DeductibleNonCashContriIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary DeductibleNonCashContriInd, moving up a level.
+
+DeductibleArtContributionIndis a dictionary... exploring the sublevel.
+
+@referenceDocumentId is a leaf node
+#text is a leaf node
+
+End of sub dictionary DeductibleArtContributionInd, moving up a level.
+
+TerminateOperationsInd is a leaf node
+PartialLiquidationInd is a leaf node
+DisregardedEntityInd is a leaf node
+RelatedEntityInd is a leaf node
+RelatedOrganizationCtrlEntInd is a leaf node
+TrnsfrExmptNonChrtblRltdOrgInd is a leaf node
+ActivitiesConductedPrtshpInd is a leaf node
+ScheduleORequiredInd is a leaf node
+IRPDocumentCnt is a leaf node
+IRPDocumentW2GCnt is a leaf node
+BackupWthldComplianceInd is a leaf node
+EmployeeCnt is a leaf node
+UnrelatedBusIncmOverLimitInd is a leaf node
+ForeignFinancialAccountInd is a leaf node
+ProhibitedTaxShelterTransInd is a leaf node
+TaxablePartyNotificationInd is a leaf node
+NondeductibleContributionsInd is a leaf node
+QuidProQuoContributionsInd is a leaf node
+Form8282PropertyDisposedOfInd is a leaf node
+RcvFndsToPayPrsnlBnftCntrctInd is a leaf node
+PayPremiumsPrsnlBnftCntrctInd is a leaf node
+IndoorTanningServicesInd is a leaf node
+InfoInScheduleOPartVIInd is a leaf node
+GoverningBodyVotingMembersCnt is a leaf node
+IndependentVotingMemberCnt is a leaf node
+FamilyOrBusinessRlnInd is a leaf node
+DelegationOfMgmtDutiesInd is a leaf node
+ChangeToOrgDocumentsInd is a leaf node
+MaterialDiversionOrMisuseInd is a leaf node
+MembersOrStockholdersInd is a leaf node
+ElectionOfBoardMembersInd is a leaf node
+DecisionsSubjectToApprovaInd is a leaf node
+MinutesOfGoverningBodyInd is a leaf node
+MinutesOfCommitteesInd is a leaf node
+OfficerMailingAddressInd is a leaf node
+LocalChaptersInd is a leaf node
+Form990ProvidedToGvrnBodyInd is a leaf node
+ConflictOfInterestPolicyInd is a leaf node
+AnnualDisclosureCoveredPrsnInd is a leaf node
+RegularMonitoringEnfrcInd is a leaf node
+WhistleblowerPolicyInd is a leaf node
+DocumentRetentionPolicyInd is a leaf node
+CompensationProcessCEOInd is a leaf node
+CompensationProcessOtherInd is a leaf node
+InvestmentInJointVentureInd is a leaf node
+StatesWhereCopyOfReturnIsFldCd is a leaf node
+OtherWebsiteInd is a leaf node
+UponRequestInd is a leaf node
+BooksInCareOfDetailis a dictionary... exploring the sublevel.
+
+BusinessNameis a dictionary... exploring the sublevel.
+
+BusinessNameLine1Txt is a leaf node
+
+End of sub dictionary BusinessName, moving up a level.
+
+PhoneNum is a leaf node
+USAddressis a dictionary... exploring the sublevel.
+
+AddressLine1Txt is a leaf node
+CityNm is a leaf node
+StateAbbreviationCd is a leaf node
+ZIPCd is a leaf node
+
+End of sub dictionary USAddress, moving up a level.
+
+
+End of sub dictionary BooksInCareOfDetail, moving up a level.
+
+Form990PartVIISectionAGrp is a list... unpacking and exploring the sublevel.
+
+PersonNm is a leaf node
+TitleTxt is a leaf node
+AverageHoursPerWeekRt is a leaf node
+IndividualTrusteeOrDirectorInd is a leaf node
+OfficerInd is a leaf node
+ReportableCompFromOrgAmt is a leaf node
+ReportableCompFromRltdOrgAmt is a leaf node
+OtherCompensationAmt is a leaf node
+
+End of sub dictionary Form990PartVIISectionAGrp, moving up a level.
+
+TotalReportableCompFromOrgAmt is a leaf node
+TotReportableCompRltdOrgAmt is a leaf node
+TotalOtherCompensationAmt is a leaf node
+IndivRcvdGreaterThan100KCnt is a leaf node
+FormerOfcrEmployeesListedInd is a leaf node
+TotalCompGreaterThan150KInd is a leaf node
+CompensationFromOtherSrcsInd is a leaf node
+ContractorCompensationGrp is a list... unpacking and exploring the sublevel.
+
+ContractorNameis a dictionary... exploring the sublevel.
+
+BusinessNameis a dictionary... exploring the sublevel.
+
+BusinessNameLine1Txt is a leaf node
+
+End of sub dictionary BusinessName, moving up a level.
+
+
+End of sub dictionary ContractorName, moving up a level.
+
+ContractorAddressis a dictionary... exploring the sublevel.
+
+USAddressis a dictionary... exploring the sublevel.
+
+AddressLine1Txt is a leaf node
+CityNm is a leaf node
+StateAbbreviationCd is a leaf node
+ZIPCd is a leaf node
+
+End of sub dictionary USAddress, moving up a level.
+
+
+End of sub dictionary ContractorAddress, moving up a level.
+
+ServicesDesc is a leaf node
+CompensationAmt is a leaf node
+
+End of sub dictionary ContractorCompensationGrp, moving up a level.
+
+CntrctRcvdGreaterThan100KCnt is a leaf node
+AllOtherContributionsAmt is a leaf node
+NoncashContributionsAmt is a leaf node
+TotalContributionsAmt is a leaf node
+ProgramServiceRevenueGrp is a list... unpacking and exploring the sublevel.
+
+Desc is a leaf node
+BusinessCd is a leaf node
+TotalRevenueColumnAmt is a leaf node
+RelatedOrExemptFuncIncomeAmt is a leaf node
+
+End of sub dictionary ProgramServiceRevenueGrp, moving up a level.
+
+TotalProgramServiceRevenueAmt is a leaf node
+InvestmentIncomeGrpis a dictionary... exploring the sublevel.
+
+TotalRevenueColumnAmt is a leaf node
+ExclusionAmt is a leaf node
+
+End of sub dictionary InvestmentIncomeGrp, moving up a level.
+
+LessCostOthBasisSalesExpnssGrpis a dictionary... exploring the sublevel.
+
+OtherAmt is a leaf node
+
+End of sub dictionary LessCostOthBasisSalesExpnssGrp, moving up a level.
+
+GainOrLossGrpis a dictionary... exploring the sublevel.
+
+OtherAmt is a leaf node
+
+End of sub dictionary GainOrLossGrp, moving up a level.
+
+NetGainOrLossInvestmentsGrpis a dictionary... exploring the sublevel.
+
+TotalRevenueColumnAmt is a leaf node
+ExclusionAmt is a leaf node
+
+End of sub dictionary NetGainOrLossInvestmentsGrp, moving up a level.
+
+OtherRevenueMiscGrp is a list... unpacking and exploring the sublevel.
+
+Desc is a leaf node
+BusinessCd is a leaf node
+TotalRevenueColumnAmt is a leaf node
+ExclusionAmt is a leaf node
+
+End of sub dictionary OtherRevenueMiscGrp, moving up a level.
+
+OtherRevenueTotalAmt is a leaf node
+TotalRevenueGrpis a dictionary... exploring the sublevel.
+
+TotalRevenueColumnAmt is a leaf node
+RelatedOrExemptFuncIncomeAmt is a leaf node
+UnrelatedBusinessRevenueAmt is a leaf node
+ExclusionAmt is a leaf node
+
+End of sub dictionary TotalRevenueGrp, moving up a level.
+
+GrantsToDomesticOrgsGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+
+End of sub dictionary GrantsToDomesticOrgsGrp, moving up a level.
+
+CompCurrentOfcrDirectorsGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary CompCurrentOfcrDirectorsGrp, moving up a level.
+
+OtherSalariesAndWagesGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary OtherSalariesAndWagesGrp, moving up a level.
+
+OtherEmployeeBenefitsGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary OtherEmployeeBenefitsGrp, moving up a level.
+
+PayrollTaxesGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary PayrollTaxesGrp, moving up a level.
+
+FeesForServicesOtherGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary FeesForServicesOtherGrp, moving up a level.
+
+AdvertisingGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+
+End of sub dictionary AdvertisingGrp, moving up a level.
+
+OfficeExpensesGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary OfficeExpensesGrp, moving up a level.
+
+InformationTechnologyGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary InformationTechnologyGrp, moving up a level.
+
+OccupancyGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary OccupancyGrp, moving up a level.
+
+TravelGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary TravelGrp, moving up a level.
+
+ConferencesMeetingsGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary ConferencesMeetingsGrp, moving up a level.
+
+InterestGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary InterestGrp, moving up a level.
+
+DepreciationDepletionGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary DepreciationDepletionGrp, moving up a level.
+
+InsuranceGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary InsuranceGrp, moving up a level.
+
+OtherExpensesGrp is a list... unpacking and exploring the sublevel.
+
+Desc is a leaf node
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+
+End of sub dictionary OtherExpensesGrp, moving up a level.
+
+AllOtherExpensesGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+
+End of sub dictionary AllOtherExpensesGrp, moving up a level.
+
+TotalFunctionalExpensesGrpis a dictionary... exploring the sublevel.
+
+TotalAmt is a leaf node
+ProgramServicesAmt is a leaf node
+ManagementAndGeneralAmt is a leaf node
+FundraisingAmt is a leaf node
+
+End of sub dictionary TotalFunctionalExpensesGrp, moving up a level.
+
+CashNonInterestBearingGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary CashNonInterestBearingGrp, moving up a level.
+
+SavingsAndTempCashInvstGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary SavingsAndTempCashInvstGrp, moving up a level.
+
+OthNotesLoansReceivableNetGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary OthNotesLoansReceivableNetGrp, moving up a level.
+
+InventoriesForSaleOrUseGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary InventoriesForSaleOrUseGrp, moving up a level.
+
+PrepaidExpensesDefrdChargesGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary PrepaidExpensesDefrdChargesGrp, moving up a level.
+
+LandBldgEquipCostOrOtherBssAmt is a leaf node
+LandBldgEquipAccumDeprecAmt is a leaf node
+LandBldgEquipBasisNetGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary LandBldgEquipBasisNetGrp, moving up a level.
+
+InvestmentsPubTradedSecGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary InvestmentsPubTradedSecGrp, moving up a level.
+
+OtherAssetsTotalGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary OtherAssetsTotalGrp, moving up a level.
+
+TotalAssetsGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary TotalAssetsGrp, moving up a level.
+
+AccountsPayableAccrExpnssGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary AccountsPayableAccrExpnssGrp, moving up a level.
+
+MortgNotesPyblScrdInvstPropGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary MortgNotesPyblScrdInvstPropGrp, moving up a level.
+
+UnsecuredNotesLoansPayableGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary UnsecuredNotesLoansPayableGrp, moving up a level.
+
+OtherLiabilitiesGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary OtherLiabilitiesGrp, moving up a level.
+
+TotalLiabilitiesGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary TotalLiabilitiesGrp, moving up a level.
+
+OrganizationFollowsSFAS117Ind is a leaf node
+UnrestrictedNetAssetsGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary UnrestrictedNetAssetsGrp, moving up a level.
+
+TotalNetAssetsFundBalanceGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary TotalNetAssetsFundBalanceGrp, moving up a level.
+
+TotLiabNetAssetsFundBalanceGrpis a dictionary... exploring the sublevel.
+
+BOYAmt is a leaf node
+EOYAmt is a leaf node
+
+End of sub dictionary TotLiabNetAssetsFundBalanceGrp, moving up a level.
+
+ReconcilationRevenueExpnssAmt is a leaf node
+NetUnrlzdGainsLossesInvstAmt is a leaf node
+OtherChangesInNetAssetsAmt is a leaf node
+MethodOfAccountingAccrualInd is a leaf node
+AccountantCompileOrReviewInd is a leaf node
+FSAuditedInd is a leaf node
+FSAuditedBasisGrpis a dictionary... exploring the sublevel.
+
+SeparateBasisFinclStmtInd is a leaf node
+
+End of sub dictionary FSAuditedBasisGrp, moving up a level.
+
+AuditCommitteeInd is a leaf node
+FederalGrantAuditRequiredInd is a leaf node
+
+End of sub dictionary IRS990, moving up a level.
+
+IRS990ScheduleAis a dictionary... exploring the sublevel.
+
+@documentId is a leaf node
+PublicOrganization170Ind is a leaf node
+GiftsGrantsContriRcvd170Grpis a dictionary... exploring the sublevel.
+
+CurrentTaxYearMinus4YearsAmt is a leaf node
+CurrentTaxYearMinus3YearsAmt is a leaf node
+CurrentTaxYearMinus2YearsAmt is a leaf node
+CurrentTaxYearMinus1YearAmt is a leaf node
+CurrentTaxYearAmt is a leaf node
+TotalAmt is a leaf node
+
+End of sub dictionary GiftsGrantsContriRcvd170Grp, moving up a level.
+
+TotalCalendarYear170Grpis a dictionary... exploring the sublevel.
+
+CurrentTaxYearMinus4YearsAmt is a leaf node
+CurrentTaxYearMinus3YearsAmt is a leaf node
+CurrentTaxYearMinus2YearsAmt is a leaf node
+CurrentTaxYearMinus1YearAmt is a leaf node
+CurrentTaxYearAmt is a leaf node
+TotalAmt is a leaf node
+
+End of sub dictionary TotalCalendarYear170Grp, moving up a level.
+
+SubstantialContributorsTotAmt is a leaf node
+PublicSupportTotal170Amt is a leaf node
+GrossInvestmentIncome170Grpis a dictionary... exploring the sublevel.
+
+CurrentTaxYearMinus4YearsAmt is a leaf node
+CurrentTaxYearMinus3YearsAmt is a leaf node
+CurrentTaxYearMinus2YearsAmt is a leaf node
+CurrentTaxYearMinus1YearAmt is a leaf node
+CurrentTaxYearAmt is a leaf node
+TotalAmt is a leaf node
+
+End of sub dictionary GrossInvestmentIncome170Grp, moving up a level.
+
+OtherIncome170Grpis a dictionary... exploring the sublevel.
+
+CurrentTaxYearMinus4YearsAmt is a leaf node
+CurrentTaxYearMinus3YearsAmt is a leaf node
+CurrentTaxYearMinus2YearsAmt is a leaf node
+CurrentTaxYearMinus1YearAmt is a leaf node
+CurrentTaxYearAmt is a leaf node
+TotalAmt is a leaf node
+
+End of sub dictionary OtherIncome170Grp, moving up a level.
+
+TotalSupportAmt is a leaf node
+GrossReceiptsRltdActivitiesAmt is a leaf node
+PublicSupportCY170Pct is a leaf node
+PublicSupportPY170Pct is a leaf node
+ThirtyThrPctSuprtTestsCY170Ind is a leaf node
+Form990ScheduleAPartVIGrpis a dictionary... exploring the sublevel.
+
+FormAndLineReferenceDesc is a leaf node
+ExplanationTxt is a leaf node
+
+End of sub dictionary Form990ScheduleAPartVIGrp, moving up a level.
+
+
+End of sub dictionary IRS990ScheduleA, moving up a level.
+
+IRS990ScheduleBis a dictionary... exploring the sublevel.
+
+@documentId is a leaf node
+
+End of sub dictionary IRS990ScheduleB, moving up a level.
+
+IRS990ScheduleDis a dictionary... exploring the sublevel.
+
+@documentId is a leaf node
+LeaseholdImprovementsGrpis a dictionary... exploring the sublevel.
+
+OtherCostOrOtherBasisAmt is a leaf node
+DepreciationAmt is a leaf node
+BookValueAmt is a leaf node
+
+End of sub dictionary LeaseholdImprovementsGrp, moving up a level.
+
+EquipmentGrpis a dictionary... exploring the sublevel.
+
+OtherCostOrOtherBasisAmt is a leaf node
+DepreciationAmt is a leaf node
+BookValueAmt is a leaf node
+
+End of sub dictionary EquipmentGrp, moving up a level.
+
+OtherLandBuildingsGrpis a dictionary... exploring the sublevel.
+
+OtherCostOrOtherBasisAmt is a leaf node
+DepreciationAmt is a leaf node
+BookValueAmt is a leaf node
+
+End of sub dictionary OtherLandBuildingsGrp, moving up a level.
+
+TotalBookValueLandBuildingsAmt is a leaf node
+OtherAssetsOrgGrp is a list... unpacking and exploring the sublevel.
+
+Desc is a leaf node
+BookValueAmt is a leaf node
+
+End of sub dictionary OtherAssetsOrgGrp, moving up a level.
+
+TotalBookValueOtherAssetsAmt is a leaf node
+OtherLiabilitiesOrgGrpis a dictionary... exploring the sublevel.
+
+Desc is a leaf node
+Amt is a leaf node
+
+End of sub dictionary OtherLiabilitiesOrgGrp, moving up a level.
+
+TotalLiabilityAmt is a leaf node
+FootnoteTextInd is a leaf node
+TotalRevEtcAuditedFinclStmtAmt is a leaf node
+NetUnrealizedGainsInvstAmt is a leaf node
+DonatedServicesAndUseFcltsAmt is a leaf node
+OtherRevenueAmt is a leaf node
+RevenueNotReportedAmt is a leaf node
+RevenueSubtotalAmt is a leaf node
+RevenueNotReportedFinclStmtAmt is a leaf node
+TotalRevenuePerForm990Amt is a leaf node
+TotExpnsEtcAuditedFinclStmtAmt is a leaf node
+DonatedServicesUseFcltsAmt is a leaf node
+OtherExpensesIncludedAmt is a leaf node
+ExpensesNotReportedAmt is a leaf node
+ExpensesSubtotalAmt is a leaf node
+ExpensesNotRptFinclStmtAmt is a leaf node
+TotalExpensesPerForm990Amt is a leaf node
+SupplementalInformationDetail is a list... unpacking and exploring the sublevel.
+
+FormAndLineReferenceDesc is a leaf node
+ExplanationTxt is a leaf node
+
+End of sub dictionary SupplementalInformationDetail, moving up a level.
+
+
+End of sub dictionary IRS990ScheduleD, moving up a level.
+
+IRS990ScheduleIis a dictionary... exploring the sublevel.
+
+@documentId is a leaf node
+GrantRecordsMaintainedInd is a leaf node
+RecipientTableis a dictionary... exploring the sublevel.
+
+RecipientBusinessNameis a dictionary... exploring the sublevel.
+
+BusinessNameLine1Txt is a leaf node
+
+End of sub dictionary RecipientBusinessName, moving up a level.
+
+USAddressis a dictionary... exploring the sublevel.
+
+AddressLine1Txt is a leaf node
+CityNm is a leaf node
+StateAbbreviationCd is a leaf node
+ZIPCd is a leaf node
+
+End of sub dictionary USAddress, moving up a level.
+
+RecipientEIN is a leaf node
+IRCSectionDesc is a leaf node
+CashGrantAmt is a leaf node
+PurposeOfGrantTxt is a leaf node
+
+End of sub dictionary RecipientTable, moving up a level.
+
+SupplementalInformationDetailis a dictionary... exploring the sublevel.
+
+FormAndLineReferenceDesc is a leaf node
+ExplanationTxt is a leaf node
+
+End of sub dictionary SupplementalInformationDetail, moving up a level.
+
+
+End of sub dictionary IRS990ScheduleI, moving up a level.
+
+IRS990ScheduleMis a dictionary... exploring the sublevel.
+
+@documentId is a leaf node
+RealEstateOtherGrpis a dictionary... exploring the sublevel.
+
+NonCashCheckboxInd is a leaf node
+ContributionCnt is a leaf node
+NoncashContributionsRptF990Amt is a leaf node
+MethodOfDeterminingRevenuesTxt is a leaf node
+
+End of sub dictionary RealEstateOtherGrp, moving up a level.
+
+AnyPropertyThatMustBeHeldInd is a leaf node
+ReviewProcessUnusualNCGiftsInd is a leaf node
+ThirdPartiesUsedInd is a leaf node
+
+End of sub dictionary IRS990ScheduleM, moving up a level.
+
+IRS990ScheduleOis a dictionary... exploring the sublevel.
+
+@documentId is a leaf node
+SupplementalInformationDetail is a list... unpacking and exploring the sublevel.
+
+FormAndLineReferenceDesc is a leaf node
+ExplanationTxt is a leaf node
+
+End of sub dictionary SupplementalInformationDetail, moving up a level.
+
+
+End of sub dictionary IRS990ScheduleO, moving up a level.
+
+
+End of sub dictionary ReturnData, moving up a level.
+
