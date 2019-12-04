@@ -5,7 +5,7 @@ Figure out where I left off
 Currently, everything requires manual operation.
 
 Execution order to get everything to work:
-ID
+ID_finder.ipynb generates 'affiliates annual links' which is used in 'Form_990_Data_gather' to generate a dataframe of IRS990 data.
 
 Don't do that though! The file 'affiliate_data.csv' contains the final output.
 
@@ -15,7 +15,7 @@ Or is it 'excel_affiliate_dataframe' ??? Ah, why did I make this so confusing on
 
 But there is no need to rerun anything!
 
-
+Also you won't be able to run 'ID_finder.ipynb' unless you change the code to download the necessary index files before hand.
 
 
 Need to rename 'affiliates annual links' file to better follow best practices...
@@ -31,5 +31,5 @@ Backup Python Scripts is missing some older things... I think...
 
 Was I working on something to shorten key names? Why was I doing that?
 
-Currently the ID
+
 
