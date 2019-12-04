@@ -1,0 +1,35 @@
+reorganize stuff.
+
+Figure out where I left off
+
+Currently, everything requires manual operation.
+
+Execution order to get everything to work:
+ID
+
+Don't do that though! The file 'affiliate_data.csv' contains the final output.
+
+Or is it 'dataframe.csv' ??
+
+Or is it 'excel_affiliate_dataframe' ??? Ah, why did I make this so confusing on myself.
+
+But there is no need to rerun anything!
+
+
+
+
+Need to rename 'affiliates annual links' file to better follow best practices...
+
+need to transition to .py files.
+
+
+Refresh myself on what tools exist to best handle IRS990 data...
+
+
+
+Backup Python Scripts is missing some older things... I think...
+
+Was I working on something to shorten key names? Why was I doing that?
+
+Currently the ID
+
