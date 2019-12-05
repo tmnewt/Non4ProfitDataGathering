@@ -15,6 +15,13 @@ If you are good with python then check out [990-xml-reader](https://github.com/j
 If you want  simple analysis checkout [ProPublica's Nonprofit Explorer](https://projects.propublica.org/nonprofits/)
 
 
+# Issues I had back in the days
+When I was gathering data was that the xpaths, line numbers, and variable descriptions changed all the time. One year a path would be called something like `Return.ReturnHeader.TaxPeriodEnd` and the next year it would be changed to `Return.ReturnHeader.TxPrdEnd`... That's not literally an example but you get the idea of how frustrating that can be. You'd think you could just Regex the data to death but you'd be suprised at just how time consuming that can be. Worst still, that won't help for when they change the xpaths again in the future. It's a neverending battle... 
+
+So, It was hard to find a 'standardized' set of information. And then I found the 990-xml-reader which has a nice feature of outputing 'standardized' data in the form of a JSON file. I have yet to incorporate it yet. Working on that right now...
+
+In the past I've primarily relied on my own mappings of IRS 990's ever changing fields into a standard field but it's just too time consuming and extremely error prone. So that's why I'm looking to the 990-xml-reader to assist in generating consistant data. 
+
 
 ### Now...
 If you are still on this repo you'll only find half backed code. Don't expect it to be usable. In fact, don't expect anything at all. I mean, you could run the code, and it might work for you, but don't expect any useful results. So, comeback when I've actually made progress on this...
